@@ -19,7 +19,7 @@ main{
     align-items: center;
 }
 section{
-    width: 100%;
+    width: 500px;
     margin: 50px auto;
 }
 section > ul{
