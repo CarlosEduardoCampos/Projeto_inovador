@@ -31,7 +31,7 @@ section > ul{
 }
 section > ul > li{
     text-align: center;
-    width: 200px;
+    width: 100px;
     margin: 30px;
     padding: 10px;
 }
